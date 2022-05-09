@@ -1,4 +1,4 @@
-# Send-Request-with-GO
+# Send Request with GO
 CTF için hazırladığım 3 algoritma
 
 ### 1) bruteforce-panel
